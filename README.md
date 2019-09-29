@@ -1,6 +1,7 @@
 # kiostix
 
 Jawaban SOAL : jawaban.docx
+Database : db_book.sql
 
 -- go run main.go
 
