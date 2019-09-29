@@ -1,4 +1,4 @@
 # kiostix
 
-Jawaban SOAL : jawaban.docx  /
+Jawaban SOAL : jawaban.pdf  /
 -- go run main.go
